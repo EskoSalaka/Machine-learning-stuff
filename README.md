@@ -4,4 +4,4 @@ This is my project work with some extra stuff for a machine learning course. It 
 competition which is now closed. It basically contains some analysis and discussion on automatic music genre
 classification with various methods.
 
-[The project][amgc project.ipynb]
+[The project](amgc project.ipynb)
